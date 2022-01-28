@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Muzammil Osman!
 
-I work as a Full Stack Developer spending most of my time with anything and everything Javascript.
+I am a Full Stack Developer spending most of my time with anything and everything Javascript.
 
 Since 2018 I've been encouraging myself and my peers in creating web applications that make our lives easier. I've had the chance to work with some exciting projects and collaborations which are doing some good rounds around the globe. ✨😍
 
