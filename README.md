@@ -23,7 +23,7 @@ When coming to some projects that are in the loop, have a look at [Sync Up](http
 - [Get rid of try-catch in server-side development, here's a better way!](https://dev.to/earthboundmisfit/get-rid-of-try-catch-in-server-side-development-heres-a-better-way-2im6)
 - [Kubernetes for beginners: Where do I start?](https://dev.to/earthboundmisfit/kubernetes-for-beginners-where-do-i-start-5fmh)
 - [Containerization for beginners: Running a nodeJS application using Docker](https://dev.to/earthboundmisfit/containerization-for-beginners-running-a-nodejs-application-using-docker-4f58)
-- [Multiple arrow operators in a single function](https://dev.to/earthboundmisfit/multiple-arrow-operators-in-a-single-function-551d)
+- [5 Reasons why you should prefer Next.js](https://dev.to/earthboundmisfit/5-reasons-why-nextjs-is-here-to-stay-34f6)
 <!-- BLOG-POST-LIST:END -->
 
 ### Go social 🌎
