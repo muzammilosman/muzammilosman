@@ -1,19 +1,19 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Muzammil Osman!
 
-I am a Full Stack Developer spending most of my time with anything and everything Javascript.
+I am a Full Stack Developer getting overwhelmed with the number of frameworks dropped each day.
 
-Since 2018 I've been encouraging myself and my peers in creating web applications that make our lives easier. I've had the chance to work with some exciting projects and collaborations which are doing some good rounds around the globe. ✨😍
+Since 2018 I've been encouraging myself in developing web applications that make lives better. I've had the chance to work with some exciting projects and collaborations which are doing some good rounds around the globe. ✨😍
 
 ### What am I doing with my life now 👨‍💻
 
-Well!. Over a few months, I've been expanding my skillset around micro-frontends, DevOps and Cloud-Native development.<br />
+Well!. Over a few months, I've been expanding my skillset around micro-service architecture, DevOps and Cloud-Native development.<br />
 When coming to some projects that are in the loop, have a look at [Sync Up](https://github.com/muzammilosman/sync-up) - which is looking forward to achieve a hassle free group booking and payment splitting platform.
 
 ### Tech stack  :briefcase:
 
- - Frontend  :sparkler: :fireworks: - Angular, React, Vue <br />
- - Backend :computer: :wrench: - NodeJS <br />
- - Database :file_folder:  - MongoDB <br />
+ - Frontend  :sparkler: :fireworks: - Angular, React, Vue, NextJS, Gatsby <br />
+ - Backend :computer: :wrench: - NodeJS, Kotlin <br />
+ - Database :file_folder:  - MongoDB, MySQL <br />
  - DevOps :bar_chart: :chart_with_upwards_trend: -  Docker, Kubernetes, Redhat OpenShift <br />
  - Cloud  :cloud:  - AWS, IBM Cloud <br />
 
