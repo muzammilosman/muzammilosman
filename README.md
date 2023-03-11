@@ -29,6 +29,3 @@ When coming to some projects that are in the loop, have a look at [Sync Up](http
 ### Go social 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/muzammilosman/)](https://in.linkedin.com/in/muzammilosman/)
-
-
-**[About me](https://www.muzammil.live/)**
