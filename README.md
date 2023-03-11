@@ -6,7 +6,7 @@ Since 2018 I've been encouraging myself in developing web applications that make
 
 ### What am I doing with my life now 👨‍💻
 
-Well!. Over a few months, I've been expanding my skillset around micro-service architecture, DevOps and Cloud-Native development.<br />
+Well!. Over a few months, I've been expanding my technical skills and giving some time to figure out life as a developer.<br />
 When coming to some projects that are in the loop, have a look at [Sync Up](https://github.com/muzammilosman/sync-up) - which is looking forward to achieve a hassle free group booking and payment splitting platform.
 
 ### Tech stack  :briefcase:
